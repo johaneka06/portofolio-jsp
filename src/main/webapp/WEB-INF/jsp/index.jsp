@@ -10,6 +10,7 @@
 <html>
     <head>
         <meta charset="utf-8">
+        <meta name="description" content="Johan Eka S Portfolio">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>Johan Eka S</title>
         <link rel="preconnect" href="https://fonts.gstatic.com">
